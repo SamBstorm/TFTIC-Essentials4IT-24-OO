@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Encapsulation", "Demo-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Class", "Demo-Class\Demo-Class.csproj", "{B209FDE6-09C0-4031-9CFB-8F02BA229F1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Proprietes", "Demo-Proprietes\Demo-Proprietes.csproj", "{F22E99E7-299D-496D-BFF4-E693C7EF9E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B209FDE6-09C0-4031-9CFB-8F02BA229F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B209FDE6-09C0-4031-9CFB-8F02BA229F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B209FDE6-09C0-4031-9CFB-8F02BA229F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22E99E7-299D-496D-BFF4-E693C7EF9E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22E99E7-299D-496D-BFF4-E693C7EF9E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22E99E7-299D-496D-BFF4-E693C7EF9E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22E99E7-299D-496D-BFF4-E693C7EF9E16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
